@@ -1,0 +1,15 @@
+NEST:
+
+* npm i -g @nestjs/cli = Instalar Nest, Backend Nodejs
+
+* nest new project = Nuevo folder llamado "project"
+
+* desde el gestor de extensiones de Visual Studio Code Instala el complemento más popular de "nest".
+
+* nest generate controller mensajes = Crear controlador "mensajes".
+
+* nest generate class create-mensaje-dto = Crear Clase
+
+* npm install --save @nestjs/typeorm typeorm mysql = Gestor conexión database
+
+* nest generate service mensajes = Genera servicio provider
